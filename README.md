@@ -21,7 +21,9 @@ include all of the example strats, as well as everyone elses entries. The exampl
 
 This is a game not just of coming up with a good strategy, but also trying to guess what everyone else will do (so don't let anyone know your strategy!).
 
-To enter, fill in the form here: https://forms.office.com/Pages/ResponsePage.aspx?id=4_mPmjUOIEanJOmDTcULUSj1R0W6m3lEiubaimOCgM5URUZRNzZQU083WFZPQTNJWkc0MEk4WjlONi4u
+To enter, we will use a microsoft form. In their infinite wisdom, microsoft decided to only allow file uploads of a small subset of types, not including `.py` files.
+So, before you upload your file, rename the file extension from `.py` to `.pdf`. If you cant see the `.py` at the end of the file name, make sure you have "file name extensions" ticked in the "view" tab of file explorer.
+The form is here: https://forms.office.com/Pages/ResponsePage.aspx?id=4_mPmjUOIEanJOmDTcULUSj1R0W6m3lEiubaimOCgM5URUZRNzZQU083WFZPQTNJWkc0MEk4WjlONi4u
 
 # Prizes!
 

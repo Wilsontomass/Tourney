@@ -1,6 +1,8 @@
-import random
 import numpy as np
 from typing import Any, Tuple
 
 def strategy(history: np.ndarray, memory: Any) -> Tuple[int, Any]:
-    return np.random.choice([0, 1]), None
+    if history.shape[1] > 1 and all(history[1,-2:] == 0):
+        return 0, None
+    else:
+        return 1, None

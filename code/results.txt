@@ -1,0 +1,411 @@
+alternate (P1)  VS.  alwaysCooperate (P2)
+D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D 
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for alternate: 4.004739336492891
+Final score for alwaysCooperate: 1.4928909952606635
+
+alternate (P1)  VS.  alwaysDefect (P2)
+D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C 
+D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+Final score for alternate: 0.5
+Final score for alwaysDefect: 3.0
+
+alternate (P1)  VS.  cycleTwo (P2)
+D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D 
+C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D 
+Final score for alternate: 2.259259259259259
+Final score for cycleTwo: 2.2386831275720165
+
+alternate (P1)  VS.  defectIfMoreDefections (P2)
+D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D 
+C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C 
+Final score for alternate: 2.511737089201878
+Final score for defectIfMoreDefections: 2.488262910798122
+
+alternate (P1)  VS.  forgiving (P2)
+D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C 
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for alternate: 4.0
+Final score for forgiving: 1.5
+
+alternate (P1)  VS.  grudger (P2)
+D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C 
+C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+Final score for alternate: 0.5176991150442478
+Final score for grudger: 2.995575221238938
+
+alternate (P1)  VS.  opposite (P2)
+D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D 
+C C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D 
+Final score for alternate: 2.0128755364806867
+Final score for opposite: 1.9914163090128756
+
+alternate (P1)  VS.  primeDefect (P2)
+D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C 
+D D C C D C D C D D D C D C D D D C D C D D D C D D D D D C D C D D D D D C D D D C D C D D D C D D D D D C D D D D D C D C D D D D D C D D D C D C D D D D D C D D D C D D D D D C D D D D D D D C D D D C D C D D D C D C D D D C D D D D D D D D D D D D D C D D D C D D D D D C D C D D D D D D D D D C D C D D D D D C D D D D D C D D D C D D D D D C D D D D D C D C D D D D D D D D D C D C D D D C D C D D D D D D D D D D D C D D D D D D D D D D D C D D D C D C D D D C D D D D D C D C D D D D D D D D D C D D 
+Final score for alternate: 1.141732283464567
+Final score for primeDefect: 2.578740157480315
+
+alternate (P1)  VS.  randomStrategy (P2)
+D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C 
+D D C C C D C C C D D C D C D D C D D D C C C C D D D D D C D D C D D C D C C C D C C C D D C D D D D D D D D C C C C C D C C C D D C D D D C D D C D C D C D C C D D D C D C D C D D D D C C D C C D D D C D C C C C C C D D D C C C C C C D D D D C D C D D D C D D D D C C C C D D D D C D C C C C D D C C D C D C C C C D C C C D D C D D D C D C C D D D D D D D D D D D C D C D D C D C D D D C D D D D D C C C C C C D D C D D C D D C D D C D C C C 
+Final score for alternate: 2.1126126126126126
+Final score for randomStrategy: 2.315315315315315
+
+alternate (P1)  VS.  thirdDefect (P2)
+D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D 
+D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C 
+Final score for alternate: 2.8328530259365996
+Final score for thirdDefect: 1.9971181556195965
+
+alternate (P1)  VS.  titForTat (P2)
+D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C 
+C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D 
+Final score for alternate: 2.5
+Final score for titForTat: 2.5
+
+alwaysCooperate (P1)  VS.  alwaysDefect (P2)
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+Final score for alwaysCooperate: 0.0
+Final score for alwaysDefect: 5.0
+
+alwaysCooperate (P1)  VS.  cycleTwo (P2)
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C 
+Final score for alwaysCooperate: 1.5063291139240507
+Final score for cycleTwo: 3.9957805907172994
+
+alwaysCooperate (P1)  VS.  defectIfMoreDefections (P2)
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for alwaysCooperate: 3.0
+Final score for defectIfMoreDefections: 3.0
+
+alwaysCooperate (P1)  VS.  forgiving (P2)
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for alwaysCooperate: 3.0
+Final score for forgiving: 3.0
+
+alwaysCooperate (P1)  VS.  grudger (P2)
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for alwaysCooperate: 3.0
+Final score for grudger: 3.0
+
+alwaysCooperate (P1)  VS.  opposite (P2)
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+Final score for alwaysCooperate: 0.014705882352941176
+Final score for opposite: 4.990196078431373
+
+alwaysCooperate (P1)  VS.  primeDefect (P2)
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+D D C C D C D C D D D C D C D D D C D C D D D C D D D D D C D C D D D D D C D D D C D C D D D C D D D D D C D D D D D C D C D D D D D C D D D C D C D D D D D C D D D C D D D D D C D D D D D D D C D D D C D C D D D C D C D D D C D D D D D D D D D D D D D C D D D C D D D D D C D C D D D D D D D D D C D C D D D D D C D D D D D C D D D C D D D D D C D D D D D C D C D D D D D D D D D C D C D D D C D C D D D D D D D D D D D C D D D D D D D D D D D C D D D C D C D D D C D D D D D 
+Final score for alwaysCooperate: 0.6401673640167364
+Final score for primeDefect: 4.573221757322176
+
+alwaysCooperate (P1)  VS.  randomStrategy (P2)
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+C C C C C D D C D D C D D C C C C C C C D D C C D C C D D D C D D D C C D C D D D C C D C C C C C C C C C D D C C C C C C D C D D D C D C D D D D D C D C C D D D D D C D D C C D D D D D C D D D D C D D C D C D D C C D D D C C D D C C D D D D D D D C D D C D D C D D C D D D D C C C C C D C D D C D D D C D D C D C C D D D C D D C C C D D C C C C C D D C D D D D D D D D D D D C C D D C D D D D D C C D D C C C D C C D D D D C C 
+Final score for alwaysCooperate: 1.3317757009345794
+Final score for randomStrategy: 4.11214953271028
+
+alwaysCooperate (P1)  VS.  thirdDefect (P2)
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D 
+Final score for alwaysCooperate: 1.9903846153846154
+Final score for thirdDefect: 3.673076923076923
+
+alwaysCooperate (P1)  VS.  titForTat (P2)
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for alwaysCooperate: 3.0
+Final score for titForTat: 3.0
+
+alwaysDefect (P1)  VS.  cycleTwo (P2)
+D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C 
+Final score for alwaysDefect: 3.017094017094017
+Final score for cycleTwo: 0.49572649572649574
+
+alwaysDefect (P1)  VS.  defectIfMoreDefections (P2)
+D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+Final score for alwaysDefect: 1.0142348754448398
+Final score for defectIfMoreDefections: 0.99644128113879
+
+alwaysDefect (P1)  VS.  forgiving (P2)
+D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+C C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+Final score for alwaysDefect: 1.0375586854460095
+Final score for forgiving: 0.9906103286384976
+
+alwaysDefect (P1)  VS.  grudger (P2)
+D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+Final score for alwaysDefect: 1.0150943396226415
+Final score for grudger: 0.9962264150943396
+
+alwaysDefect (P1)  VS.  opposite (P2)
+D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for alwaysDefect: 5.0
+Final score for opposite: 0.0
+
+alwaysDefect (P1)  VS.  primeDefect (P2)
+D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+D D C C D C D C D D D C D C D D D C D C D D D C D D D D D C D C D D D D D C D D D C D C D D D C D D D D D C D D D D D C D C D D D D D C D D D C D C D D D D D C D D D C D D D D D C D D D D D D D C D D D C D C D D D C D C D D D C D D D D D D D D D D D D D C D D D C D D D D D C D C D D D D D D D D D C D C D D D D D C D D D D D C D D D C D D D D D C D D D D D C D C D D D D D D D D D C D C D D D C D C D D D D D D D D D 
+Final score for alwaysDefect: 1.8803827751196172
+Final score for primeDefect: 0.7799043062200957
+
+alwaysDefect (P1)  VS.  randomStrategy (P2)
+D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+D D D D C C C D C D C D C C C C C D D C C C D D D D C D D D C C C D D C D C C D C C C D C D D C D D C D D D C D C C C C C D C D D C D C C D D C C D C D D C D C D C D C D D C C C C C C D C D D D D C D D D D D D D D C D D C D D D D C D D D C C C C C D D D C D D D D D C C C D C C C D D D C D D C D C D D C D C D D C C D D C D D D C C D D D C C C C D D D C D C D D D D D D D D C C D D C D C C C C D C D C D C C C 
+Final score for alwaysDefect: 2.8341463414634145
+Final score for randomStrategy: 0.5414634146341464
+
+alwaysDefect (P1)  VS.  thirdDefect (P2)
+D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D 
+Final score for alwaysDefect: 3.6568265682656826
+Final score for thirdDefect: 0.33579335793357934
+
+alwaysDefect (P1)  VS.  titForTat (P2)
+D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+Final score for alwaysDefect: 1.0177777777777777
+Final score for titForTat: 0.9955555555555555
+
+cycleTwo (P1)  VS.  defectIfMoreDefections (P2)
+C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C 
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for cycleTwo: 3.995305164319249
+Final score for defectIfMoreDefections: 1.5070422535211268
+
+cycleTwo (P1)  VS.  forgiving (P2)
+C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D 
+C C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C D C C C 
+Final score for cycleTwo: 3.2636363636363637
+Final score for forgiving: 1.990909090909091
+
+cycleTwo (P1)  VS.  grudger (P2)
+C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D 
+C C C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+Final score for cycleTwo: 0.543859649122807
+Final score for grudger: 2.9780701754385963
+
+cycleTwo (P1)  VS.  opposite (P2)
+C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D 
+C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C 
+Final score for cycleTwo: 2.25
+Final score for opposite: 2.25
+
+cycleTwo (P1)  VS.  primeDefect (P2)
+C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D 
+D D C C D C D C D D D C D C D D D C D C D D D C D D D D D C D C D D D D D C D D D C D C D D D C D D D D D C D D D D D C D C D D D D D C D D D C D C D D D D D C D D D C D D D D D C D D D D D D D C D D D C D C D D D C D C D D D C D D D D D D D D D D D D D C D D D C D D D D D C D C D D D D D D D D D C D C D D D D D C D D D D D C D D D C D D D D D C D D D D D C D C D D D D D D D D D C D C D D D C D C D D D D D D D D D D D C 
+Final score for cycleTwo: 1.2877358490566038
+Final score for primeDefect: 2.6792452830188678
+
+cycleTwo (P1)  VS.  randomStrategy (P2)
+C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D 
+D D C C C C C C D D C C C D C C C D D C D D C D C D C C C C C C C D D D C C D D D D C D C D D D C D D C D D C D C D D C C C D D C C C D D C C D D D C D D C C D D C C D C C C D D D D C D C D D C C D C D C D C C C C C C D D D D C C C C C C C D C C D D C C C D C D D C D D C D C C C C C D D D D C D C C D C D D C D D D D D C D D D D D C C D C C C D C C C D D D D D C C C D C C D C C D C D D C C D D C D C C C D C D C D D D D C C C C D C D C C C D C C C C C C C D D C C D D C 
+Final score for cycleTwo: 2.385593220338983
+Final score for randomStrategy: 2.2161016949152543
+
+cycleTwo (P1)  VS.  thirdDefect (P2)
+C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C 
+D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D 
+Final score for cycleTwo: 2.8130841121495327
+Final score for thirdDefect: 2.0186915887850465
+
+cycleTwo (P1)  VS.  titForTat (P2)
+C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C 
+C C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C 
+Final score for cycleTwo: 2.2567567567567566
+Final score for titForTat: 2.2567567567567566
+
+defectIfMoreDefections (P1)  VS.  forgiving (P2)
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for defectIfMoreDefections: 3.0
+Final score for forgiving: 3.0
+
+defectIfMoreDefections (P1)  VS.  grudger (P2)
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for defectIfMoreDefections: 3.0
+Final score for grudger: 3.0
+
+defectIfMoreDefections (P1)  VS.  opposite (P2)
+C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D 
+C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C C D D D C C 
+Final score for defectIfMoreDefections: 2.3333333333333335
+Final score for opposite: 2.3333333333333335
+
+defectIfMoreDefections (P1)  VS.  primeDefect (P2)
+C D D D C D C D C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+D D C C D C D C D D D C D C D D D C D C D D D C D D D D D C D C D D D D D C D D D C D C D D D C D D D D D C D D D D D C D C D D D D D C D D D C D C D D D D D C D D D C D D D D D C D D D D D D D C D D D C D C D D D C D C D D D C D D D D D D D D D D D D D C D D D C D D D D D C D C D D D D D D D D D C D C D D D D D C D D D D D C D D D C D D D D D C D D D D D C D C D D D D D D D D D C D C D D D C D C D D D D D D D D D D D C D D D D D D D D D D D C D D D C D C D D D C D D D D D C D C D D D D D D D D D C D D D D D C D D D D D C D D D D D C 
+Final score for defectIfMoreDefections: 1.8296296296296297
+Final score for primeDefect: 0.8481481481481481
+
+defectIfMoreDefections (P1)  VS.  randomStrategy (P2)
+C D C D C C C C C D C C C C C D C C C C C C C D D D D D D D D D C C C C C D D D D D C C C C C C C D C D D D D D D D D D D D D D D D D D C D C C C D C D C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C D C C C C C C C D D D D D D D D D C C C C C C 
+D C D C C C D D D C C C D D D C C D C D C D D D D D C C D C C C C C D D D D D C C C C D C D C D D C D D D C C D C D C D D D D C C C C C D C C D D C D C D D D D D C D C C C C D D C D D D C C D C C D D D C D C D C C D C D C C C D D C D D C C D C D C D D C C C C D D C D D D C C D C C D C D D C C D D D D D D D C C D C D C D C C C D D C D D D C C C D C C C C D C C C C C C D C C D C D D C C D D D D C D D C C C D D C C D D C D C C D D D C C C D C D D D D C D C D C D C C C C D C D C 
+Final score for defectIfMoreDefections: 2.5083333333333333
+Final score for randomStrategy: 1.7791666666666666
+
+defectIfMoreDefections (P1)  VS.  thirdDefect (P2)
+C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D 
+Final score for defectIfMoreDefections: 2.0
+Final score for thirdDefect: 3.6586538461538463
+
+defectIfMoreDefections (P1)  VS.  titForTat (P2)
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for defectIfMoreDefections: 3.0
+Final score for titForTat: 3.0
+
+forgiving (P1)  VS.  grudger (P2)
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for forgiving: 3.0
+Final score for grudger: 3.0
+
+forgiving (P1)  VS.  opposite (P2)
+C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C C C D D C 
+C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C 
+Final score for forgiving: 1.8045112781954886
+Final score for opposite: 2.800751879699248
+
+forgiving (P1)  VS.  primeDefect (P2)
+C C D C C C C C C C D D C C C C D D C C C C D D C C D D D D C C C C D D D D C C D D C C C C D D C C D D D D C C D D D D C C C C D D D D C C D D C C C C D D D D C C D D C C D D D D C C D D D D D D C C D D C C C C D D C C C C D D C C D D D D D D D D D D D D C C D D C C D D D D C C C C D D D D D D D D C C C C D D D D C C D D D D C C D D C C D D D D C C D D D D C C C C D D D D D D D D C C C C D D C C C C D D D D D D D D D D C C D D D D D D D D D D C C D D C C C C D D C C D D D D C C C C D 
+D D C C D C D C D D D C D C D D D C D C D D D C D D D D D C D C D D D D D C D D D C D C D D D C D D D D D C D D D D D C D C D D D D D C D D D C D C D D D D D C D D D C D D D D D C D D D D D D D C D D D C D C D D D C D C D D D C D D D D D D D D D D D D D C D D D C D D D D D C D C D D D D D D D D D C D C D D D D D C D D D D D C D D D C D D D D D C D D D D D C D C D D D D D D D D D C D C D D D C D C D D D D D D D D D D D C D D D D D D D D D D D C D D D C D C D D D C D D D D D C D C D D D 
+Final score for forgiving: 1.3551020408163266
+Final score for primeDefect: 2.4571428571428573
+
+forgiving (P1)  VS.  randomStrategy (P2)
+C C C C C C C C C C D C C D C C D C C C C C C D D D D D D C C C C C C C C C D D D C C C C D C C C C C C C D C C C C C C C C C C C D D D C C D C C C C C C D C C C D C C C C C D D C C C C C C D C C C C C C C C C D D D D C C C C C C C C C C C C D C C D C C C C C C D C C C C C C C C C C C C D D D C C C C C C D D D C C C C C C C D D C C C C C C C C C C C C C C C D C C C C C C C D C C C C C C C C C C C C C D D C C C C D C C C C D D D C C C C D C C C C C C C C C C C D C C C C C C C C C D C C D D C C C D C C D C C C C C C D D D C C C C C C C C C C C C D D D D C C C D D C C D C C C C C C C C C C D C C C C C C D C C C C C C C C C C C C D D 
+C C D C D C D C D D C D D C D D C C C D C D D D D D D D C D C D C D C C D D D D C C C D D C C C C D C D D C C C D C C D C C C D D D D C D D C D C C C D D C C D D C C D C D D D C C D C C D D C D C D C C C C D D D D D C C D C D C C D C C C D D C D D C C C D C D D C D C C C D C D C C C D D D D C D C C C D D D D C D C D C C D D D C C C C C D C C D C C C C C D D C D C D C C D D C D C D C C C D C D C C D D D C D C D D C C C D D D D C C C D D C C D C D C C C D C D D C D C C D C C C D D C D D D C C D D C D D C D C D C D D D D C C C D C C C C C C C D D D D D C C D D D C D D C C D C C D C C C D D C C D C C D D C D C D C D C D C C C D D D C 
+Final score for forgiving: 1.8808777429467085
+Final score for randomStrategy: 3.2445141065830723
+
+forgiving (P1)  VS.  thirdDefect (P2)
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C 
+Final score for forgiving: 1.9952830188679245
+Final score for thirdDefect: 3.669811320754717
+
+forgiving (P1)  VS.  titForTat (P2)
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for forgiving: 3.0
+Final score for titForTat: 3.0
+
+grudger (P1)  VS.  opposite (P2)
+C C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+C D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for grudger: 4.950226244343892
+Final score for opposite: 0.04072398190045249
+
+grudger (P1)  VS.  primeDefect (P2)
+C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+D D C C D C D C D D D C D C D D D C D C D D D C D D D D D C D C D D D D D C D D D C D C D D D C D D D D D C D D D D D C D C D D D D D C D D D C D C D D D D D C D D D C D D D D D C D D D D D D D C D D D C D C D D D C D C D D D C D D D D D D D D D D D D D C D D D C D D D D D C D C D D D D D D D D D C D C D D D D D C D D D D D C D D D C D D D D D C D D D D D C D C D D D D D D D D D C D C D D D C D C D D D D D D D D D D D C D D D D D D D D D D D C 
+Final score for grudger: 1.8526785714285714
+Final score for primeDefect: 0.8035714285714286
+
+grudger (P1)  VS.  randomStrategy (P2)
+C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+D C C D D C D C C C C D D C D C C D C C C D C C C C C C C C D C D D D C D C C D C D C D D C D C D D C D D C D C D D C D D D C C C D D D C C D D C C D D C D C C C C C D D D D C D D C D D C C D D D C D C C D C D D D C D C C C C D C D D D D D D C C D C D C C C D C C C C C C D C C C D D C C D C D C D D C D C D D C D C D C C D C D D D D C D C C C C D C C C C D D C C C D D D C C C D D C C D C C D C D D D C D C D D 
+Final score for grudger: 3.092233009708738
+Final score for randomStrategy: 0.49514563106796117
+
+grudger (P1)  VS.  thirdDefect (P2)
+C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D 
+Final score for grudger: 3.6492890995260665
+Final score for thirdDefect: 0.35545023696682465
+
+grudger (P1)  VS.  titForTat (P2)
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for grudger: 3.0
+Final score for titForTat: 3.0
+
+opposite (P1)  VS.  primeDefect (P2)
+C C C D D C D C D C C C D C D C C C D C D C C C D C C C C C D C D C C C C C D C C C D C D C C C D C C C C C D C C C C C D C D C C C C C D C C C D C D C C C C C D C C C D C C C C C D C C C C C C C D C C C D C D C C C D C D C C C D C C C C C C C C C C C C C D C C C D C C C C C D C D C C C C C C C C C D C D C C C C C D C C C C C D C C C D C C C C C D C C C C C D C D C C C C C C C C C D C D C C C D C D C C C C C C C C C C 
+D D C C D C D C D D D C D C D D D C D C D D D C D D D D D C D C D D D D D C D D D C D C D D D C D D D D D C D D D D D C D C D D D D D C D D D C D C D D D D D C D D D C D D D D D C D D D D D D D C D D D C D C D D D C D C D D D C D D D D D D D D D D D D D C D D D C D D D D D C D C D D D D D D D D D C D C D D D D D C D D D D D C D D D C D D D D D C D D D D D C D C D D D D D D D D D C D C D D D C D C D D D D D D D D D D D 
+Final score for opposite: 0.8767772511848341
+Final score for primeDefect: 3.6966824644549763
+
+opposite (P1)  VS.  randomStrategy (P2)
+C D C C C C D D C C C D D D C C C C D C C C C C D C D D C C C C C D C D C C D D C D D D D D D D D D D C D C D C D D C C D C C D D C C D D D C C C C C D C C D C C C D C C D D D C D D D C C D C C D D D C C D C D C D C D D D D D C D C D D C C D D D D C C C C D C C C C D C D C C D C D D D C C D D D D C D D C D C C C C D D D C D D D C C D D D C D C D D D D C D D D C C C C C C C D D C D C C C C D D C D D D C D C C C D C D 
+C D D D D C C D D D C C C D D D D C D D D D D C D C C D D D D D C D C D D C C D C C C C C C C C C C D C D C D C C D D C D D C C D D C C C D D D D D C D D C D D D C D D C C C D C C C D D C D D C C C D D C D C D C D C C C C C D C D C C D D C C C C D D D D C D D D D C D C D D C D C C C D D C C C C D C C D C D D D D C C C D C C C D D C C C D C D C C C C D C C C D D D D D D D C C D C D D D D C C D C C C D C D D D C D C C 
+Final score for opposite: 2.2523809523809524
+Final score for randomStrategy: 2.276190476190476
+
+opposite (P1)  VS.  thirdDefect (P2)
+C C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D D C D 
+D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C 
+Final score for opposite: 2.9955555555555557
+Final score for thirdDefect: 1.3511111111111112
+
+opposite (P1)  VS.  titForTat (P2)
+C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D 
+C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C D D C C 
+Final score for opposite: 2.2663551401869158
+Final score for titForTat: 2.2429906542056073
+
+primeDefect (P1)  VS.  randomStrategy (P2)
+D D C C D C D C D D D C D C D D D C D C D D D C D D D D D C D C D D D D D C D D D C D C D D D C D D D D D C D D D D D C D C D D D D D C D D D C D C D D D D D C D D D C D D D D D C D D D D D D D C D D D C D C D D D C D C D D D C D D D D D D D D D D D D D C D D D C D D D D D C D C D D D D D D D D D C D C D D D D D C D D D D D C D D D C D D D D D C D D D D D C D C D D D D D D D D D C D C D D D C D C D D D D D D D D D D D C D D D D D D D D D D D C D D D C D C D D D C D D D D D C D C D D D D D D D D D C D D D D D C D D D D D C 
+D D C D D D D C C C D D D D D D D C D C C D D C D D D C C D D C D D C C D D D C C D C D D C C D C D D C D D D D D D C C D C C D C C D C D D C D C D D D C C D C C D C D D D C D D C D D C C C C D C C C D D C D D C D C D C D C C D D C D C D D C C D D D D C D D C D D C C D C D D C C D C D C D C C C D C D C C D D C C C C C D C D C D C D C C C D C C D D C D C D C D C D C D C D D C C D C D D C C D C D C D C D C D C D D C D D C D C C D D C C C C C D D C D C D D D D D C C C C C C C D C D C D D C D D D C C C D D D D C C D C C D D D 
+Final score for primeDefect: 2.571969696969697
+Final score for randomStrategy: 1.2651515151515151
+
+primeDefect (P1)  VS.  thirdDefect (P2)
+D D C C D C D C D D D C D C D D D C D C D D D C D D D D D C D C D D D D D C D D D C D C D D D C D D D D D C D D D D D C D C D D D D D C D D D C D C D D D D D C D D D C D D D D D C D D D D D D D C D D D C D C D D D C D C D D D C D D D D D D D D D D D D D C D D D C D D D D D C D C D D D D D D D D D C D C D D D D D C D D D D D C D D D C D D D D D C D D D D D C D C D D D D D D D D D C D C D D D C D C D D D D D D D D D D D C D D D D D D D D D D D C D D D C D C D D D C D D D D D C D C D D D D D D D D D C D D D D D C D D D D D C D D D D D C D C D D D D D C D D D C D C D D D D D D D D D C D D D D D D D D D D D D D C D D D C D C D D D C D D D D D D D D D D D D D C D D D D D C D D D D D D D D D 
+D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C 
+Final score for primeDefect: 3.2737752161383287
+Final score for thirdDefect: 0.9250720461095101
+
+primeDefect (P1)  VS.  titForTat (P2)
+D D C C D C D C D D D C D C D D D C D C D D D C D D D D D C D C D D D D D C D D D C D C D D D C D D D D D C D D D D D C D C D D D D D C D D D C D C D D D D D C D D D C D D D D D C D D D D D D D C D D D C D C D D D C D C D D D C D D D D D D D D D D D D D C D D D C D D D D D C D C D D D D D D D D D C D C D D D D D C D D D D D C D D D C D D D D D C D D D D D C D C D D D D D D D D D C D C D D D C D C D D D D D D D D D D D C D D D D D D D D D D D C D D D C D C D D D C D D D D D C D C D D D D D D D D D C D 
+C D D C C D C D C D D D C D C D D D C D C D D D C D D D D D C D C D D D D D C D D D C D C D D D C D D D D D C D D D D D C D C D D D D D C D D D C D C D D D D D C D D D C D D D D D C D D D D D D D C D D D C D C D D D C D C D D D C D D D D D D D D D D D D D C D D D C D D D D D C D C D D D D D D D D D C D C D D D D D C D D D D D C D D D C D D D D D C D D D D D C D C D D D D D D D D D C D C D D D C D C D D D D D D D D D D D C D D D D D D D D D D D C D D D C D C D D D C D D D D D C D C D D D D D D D D D C 
+Final score for primeDefect: 1.6521739130434783
+Final score for titForTat: 1.6324110671936758
+
+randomStrategy (P1)  VS.  thirdDefect (P2)
+C C C D C C D C D C C D D C C C C C D D C D C D C C C D D C C C D D C D D C C D C C C C D D D C D C D D C D D D D D D C D C D C C C C C D D C C D C C D D C D C C C D D D C C C D D C C C D C C C C D D D C D D C C D C C D D D D C D C D C D D D D C C C D C D C C D C D D C D C C D C C D C C C D D C C C D C D D D D C D C D D C C C D D D D D D D C D C D C D D C C C C C D C D C D C C D C D D C C C C C D C D D C C D C C C D C D C D D C D D D C C D C 
+D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D 
+Final score for randomStrategy: 2.7443946188340806
+Final score for thirdDefect: 2.071748878923767
+
+randomStrategy (P1)  VS.  titForTat (P2)
+C C C C C D D C C C D D C D D C C D C D C D C D D C C C C C C C D D D C C D D C D C C D C C C D C D D D C C C D C D C D C C C C C D C C D C D C C C D C C C D D C C D C D C C C C D D C D C D C D C D C D D C C D C D D D C C C D D C D C D C D C C D D C D C C C C D D D C C D D D D D D D C D C D C C C C C D D D D D C D C C C C D C C D C C D D C D C C C D D D D D D C C C D D D D D C C D D C C C C C C C C D C C D C C D D C D C D C D D D D C D C D C C D D C C D C C C D C C C D D C C C C C D D 
+C C C C C C D D C C C D D C D D C C D C D C D C D D C C C C C C C D D D C C D D C D C C D C C C D C D D D C C C D C D C D C C C C C D C C D C D C C C D C C C D D C C D C D C C C C D D C D C D C D C D C D D C C D C D D D C C C D D C D C D C D C C D D C D C C C C D D D C C D D D D D D D C D C D C C C C C D D D D D C D C C C C D C C D C C D D C D C C C D D D D D D C C C D D D D D C C D D C C C C C C C C D C C D C C D D C D C D C D D D D C D C D C C D D C C D C C C D C C C D D C C C C C D 
+Final score for randomStrategy: 2.379591836734694
+Final score for titForTat: 2.3591836734693876
+
+thirdDefect (P1)  VS.  titForTat (P2)
+D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C 
+C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D C C D 
+Final score for thirdDefect: 2.6651982378854626
+Final score for titForTat: 2.6651982378854626
+
+
+
+TOTAL SCORES
+#1: grudger:         32.514  (2.956 average)
+#2: alwaysDefect:    28.473  (2.588 average)
+#3: titForTat:       26.652  (2.423 average)
+#4: primeDefect:     25.915  (2.356 average)
+#5: defectIfMoreDefections: 25.663  (2.333 average)
+#6: cycleTwo:        25.526  (2.321 average)
+#7: alternate:       24.394  (2.218 average)
+#8: forgiving:       23.517  (2.138 average)
+#9: randomStrategy:  23.369  (2.124 average)
+#10: opposite:        22.797  (2.072 average)
+#11: thirdDefect:     22.722  (2.066 average)
+#12: alwaysCooperate: 18.976  (1.725 average)

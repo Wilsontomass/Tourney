@@ -21,7 +21,7 @@ include all of the example strats, as well as everyone elses entries. The exampl
 
 This is a game not just of coming up with a good strategy, but also trying to guess what everyone else will do (so don't let anyone know your strategy!).
 
-To enter, fill in the form here: https://docs.google.com/forms/d/e/1FAIpQLSdpuMoNn3o77GLhjvFOnbtYfOiaO5cE349CmoNS2GdY4OH_WA/viewform?usp=sf_link
+To enter, fill in the form here: https://forms.office.com/Pages/ResponsePage.aspx?id=4_mPmjUOIEanJOmDTcULUSj1R0W6m3lEiubaimOCgM5URUZRNzZQU083WFZPQTNJWkc0MEk4WjlONi4u
 
 # Prizes!
 

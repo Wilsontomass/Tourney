@@ -8,7 +8,7 @@ The competition will be to write a python program that can play this prisoners d
 
 https://www.youtube.com/watch?v=t9Lo2fgxWHw
 
-We will play the game multiple times, allowing you to observe your opponents behaviour and respond to it. You will also play against many opponents, and the model that can accrue the most points will win!
+We will play the game multiple times, allowing you to observe your opponents behaviour and respond to it. You will also play against many opponents, and the strategy that can accrue the most points will win!
 
 How this works:
 When you run code/prisonersDilemma.py, it will search through all the Python strategy files in code/exampleStrats. Then, it will simulate many rounds of the Prisoner's Dilemma with every possible pairing. (There are (n choose 2) pairings.) After all simulations are done, it will average each strategies' overall score. It will then produce a leaderboard of strategies based on their average performance, and save it to results.txt.
@@ -16,10 +16,10 @@ When you run code/prisonersDilemma.py, it will search through all the Python str
 If you'd like to add your own strategy, all you have to do is create a new .py file in the code/exampleStrats folder that follows the same format as the example, randomStrategy. i.e, make sure your `.py` file contains a `def strategy(history, memory) -> Tuple[int, Any]:` Then, when you run code/prisonersDilemma.py, it should automatically include your strategy into the tournament!
 
 # The competition (SEB employees only!)
-You have one month (until 2023/06/26 23:59 Swedish time) to come up with a model that can win the tournament! The population in the tournament will
+You have one month (until 2023/06/26 23:59 Swedish time) to come up with a strategy that can win the tournament! The population in the tournament will
 include all of the example strats, as well as everyone elses entries. The example strats aren't allowed to win, and their scores will be removed from the final leaderboard to determine a ranking.
 
-This is a game not just of coming up with a good model, but also trying to guess what everyone else will do (so don't let anyone know your model!).
+This is a game not just of coming up with a good strategy, but also trying to guess what everyone else will do (so don't let anyone know your strategy!).
 
 To enter, fill in the form here: https://docs.google.com/forms/d/e/1FAIpQLSdpuMoNn3o77GLhjvFOnbtYfOiaO5cE349CmoNS2GdY4OH_WA/viewform?usp=sf_link
 

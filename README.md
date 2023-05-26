@@ -26,7 +26,7 @@ To enter, we will use a microsoft form. In their infinite wisdom, microsoft deci
 So, before you upload your file, rename the file extension from `.py` to `.pdf`. If you cant see the `.py` at the end of the file name, make sure you have "file name extensions" ticked in the "view" tab of file explorer.
 The form is here: https://forms.office.com/Pages/ResponsePage.aspx?id=4_mPmjUOIEanJOmDTcULUSj1R0W6m3lEiubaimOCgM5URUZRNzZQU083WFZPQTNJWkc0MEk4WjlONi4u
 
-You can only submit **one strategy per person** but if you resubmit the form, i will use your last submitted strategy in the tournament
+You can only compete with **one strategy per person** but if you resubmit the form, i will use your last submitted strategy in the tournament
 
 # Prizes!
 

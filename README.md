@@ -2,7 +2,7 @@
 
 Hi!
 
-I'm running a little Competition! And there are prizes!
+I'm running a little Competition! And there are prizes! Feel free to forward this to anyone at SEB you think would be interested.
 
 The competition will be to write a python program that can play this prisoners dilemma game, and win against everyone elses strategies. Check out this video for context: 
 

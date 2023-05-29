@@ -58,7 +58,7 @@ In this case, there have been 3 turns, we have defected twice then cooperated on
 
 For the outputs: the first value is just the move your strategy chooses to make, with 0 being defect and 1 being cooperate. The second value is any memory you'd like to retain into the next iteration. This can be 'None'.
 
-The only libraries available to you are the **python standard library and numpy**.
+The only libraries available to you are the **python standard library and numpy**. You should make sure your strategy can run within 10 ms per iteration.
 
 If I have any suspicion that you're trying to break the rules in any way, by using disallowed libraries, or trying to read or write any files, or being intentionally inefficient with loops or sleep() commands, I reserve the right to disqualify you from the tournament.
 

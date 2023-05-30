@@ -9,7 +9,7 @@ The competition will be to write a python program that can play this prisoners d
 https://www.youtube.com/watch?v=t9Lo2fgxWHw
 
 We will play the game multiple times, allowing you to observe your opponents behaviour and respond to it. You will also play against many opponents, and the strategy that can accrue the most points will win!
-You can downlaod this repo to write and test your strategy against the exampleStrats. When the competition time comes, I will gather everyones submissions and run them in one big competition.
+You can download this repo to write and test your strategy against the exampleStrats. When the competition time comes, I will gather everyones submissions and run them in one big competition.
 
 How this works:
 When you run code/prisonersDilemma.py, it will search through all the Python strategy files in code/exampleStrats. Then, it will simulate many rounds of the Prisoner's Dilemma with every possible pairing. (There are (n choose 2) pairings.) After all simulations are done, it will average each strategies' overall score. It will then produce a leaderboard of strategies based on their average performance, and save it to results.txt.
@@ -18,7 +18,7 @@ If you'd like to add your own strategy, all you have to do is create a new .py f
 
 # The competition (SEB employees only!)
 You have one month (until 2023/06/26 23:59 Swedish time) to come up with a strategy that can win the tournament! The population in the tournament will
-include all of the example strats, as well as everyone elses entries. The example strats aren't allowed to win, and their scores will be removed from the final leaderboard to determine a ranking. However, there is no rule against copying an existing strategy if you think it will win ;) 
+include all of the example strats, as well as everyone elses entries. The example strats aren't allowed to win though, so if they come first in the final leaderboard we will look to the #2nd place for the first human competitor, and so on until all prizes are accounted for. However, there is no rule against copying an existing strategy if you think it will win ;) 
 
 This is a game not just of coming up with a good strategy, but also trying to guess what everyone else will do (so don't let anyone know your strategy!).
 

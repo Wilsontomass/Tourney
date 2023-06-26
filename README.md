@@ -17,7 +17,7 @@ When you run code/prisonersDilemma.py, it will search through all the Python str
 If you'd like to add your own strategy, all you have to do is create a new .py file in the code/exampleStrats folder that follows the same format as the example, randomStrategy. i.e, make sure your `.py` file contains a `def strategy(history, memory) -> Tuple[int, Any]:` Then, when you run code/prisonersDilemma.py, it should automatically include your strategy into the tournament!
 
 # The competition (SEB employees only!)
-You have one month (until 2023/06/26 23:59 Swedish time) to come up with a strategy that can win the tournament! The population in the tournament will
+You have one month (until 2023/06/28 23:59 Swedish time) to come up with a strategy that can win the tournament! The population in the tournament will
 include all of the example strats, as well as everyone elses entries. The example strats aren't allowed to win though, so if they come first in the final leaderboard we will look to the #2nd place for the first human competitor, and so on until all prizes are accounted for. However, there is no rule against copying an existing strategy if you think it will win ;) 
 
 This is a game not just of coming up with a good strategy, but also trying to guess what everyone else will do (so don't let anyone know your strategy!).
